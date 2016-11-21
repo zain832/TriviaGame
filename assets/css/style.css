@@ -1,0 +1,33 @@
+.bodyDoc {
+	background-color: black;
+	font-family: "lucida console", sans-serif;
+	color:lime;
+	text-align: left;
+	margin-left: 10%;
+}
+
+.main {
+	color: lime;
+	display: block;
+	margin: 0 auto;
+}
+
+.start {
+	display: block;
+	margin: 0 auto;
+	color: lime;
+	background-color: grey;
+}
+
+.titleTop {
+	text-align: left;
+	color: lime;
+	font-size: 30px;
+}
+
+#timeLeft {
+	display: block;
+	margin: 0 auto;
+	color: lime;
+
+}
